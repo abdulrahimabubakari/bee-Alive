@@ -60,7 +60,7 @@ Arriving at the Queen's Chamber without pollen results in a loss.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/bee-alive.git
+   git clone https://github.com/abdulrahimabubakari/bee-alive.git
    ```
 
 2. Navigate into the project directory:
