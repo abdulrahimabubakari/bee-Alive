@@ -91,4 +91,6 @@ I also practiced passing information between functions, including maintaining a 
 
 ---
 
+This was a CS I class project.
+
 Built as part of my Computer Science learning journey.
